@@ -1,6 +1,6 @@
 {
   "name": "@suseendiran/test-package-1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is my first test package",
   "main": "dist/index.js",
   "scripts": {
